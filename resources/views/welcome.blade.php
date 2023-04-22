@@ -29,5 +29,20 @@
                 <span></span>
             </button>
         </header>
+        <main>
+            <section>
+                <h1>Asante</h1>
+                <p>
+                    Discover the art of abstraction like you never have before at our brand new exhibition. <button>Get tickets now</button>
+                </p>
+                <div>
+                    <img src="" alt="abstract art" aria-hidden="true">
+                    <img src="" alt="abstract art" aria-hidden="true">
+                    <img src="" alt="abstract art" aria-hidden="true">
+                    <img src="" alt="abstract art" aria-hidden="true">
+                    <img src="" alt="abstract art" aria-hidden="true">
+                </div>
+            </section>
+        </main>
     </body>
 </html>
