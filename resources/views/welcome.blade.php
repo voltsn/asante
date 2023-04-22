@@ -12,6 +12,17 @@
         <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
     </head>
     <body>
-        
+        <header>
+            <div>AS</div>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Gallery</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><button>Get tickets</button></li>
+                </ul>
+            </nav>
+        </header>
     </body>
 </html>
