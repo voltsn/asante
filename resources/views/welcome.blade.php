@@ -43,6 +43,38 @@
                     <img src="" alt="abstract art" aria-hidden="true">
                 </div>
             </section>
+            <section>
+                <h2>
+                    Welcome to Asante, we are a collective of creatives, whose mission is to make art accessible to everyone.
+                </h2>
+
+                <div>
+                    <div>
+                        <img src="" alt="abstract art" aria-hidden="true">
+                        <img src="" alt="abstract art" aria-hidden="true">
+                        <img src="" alt="abstract art" aria-hidden="true">
+                    </div>
+                    <p>
+                        Our latest exhibition features some of the brightest artistic minds in the space, each bringing their unique perspective and style to the table. From colorful and bold to soft and subtle, these works of art are sure to leave you mesmerized.
+                    </p>
+                </div>
+
+                <div>
+                    <p>
+                        The goal of this exhibition is to allow you to discover and get lost in the universe of abstract art. It's an opportunity to experience art in a way that's completely open to interpretation and personal expression. With every brush stroke, each artist invites you to explore the beauty of their vision and be inspired by their passion.
+                    </p>
+                    <img src="" alt="abstract art" aria-hidden="true">
+                </div>
+
+                <div>
+                    <p>
+                        Whether you're an art enthusiast or a curious newcomer, this exhibition is a must-see. So come, immerse yourself in the world of abstract art, and discover the magic that lies within. We can't wait to share this experience with you.
+                        <button>Get tickets</button>
+                    </p>
+
+                    <img src="" alt="abstract art" aria-hidden="true">
+                </div>
+            </section>
         </main>
     </body>
 </html>
