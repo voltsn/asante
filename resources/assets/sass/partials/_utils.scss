@@ -1,0 +1,16 @@
+.btn{
+    border: none;
+    border-radius: .5rem;
+    padding: .5em .7em;
+    cursor: pointer;
+
+    &.btn-lg{
+        font-size: 1.875rem;
+        font-weight: 600;
+    }
+    
+    &.btn--yellow{
+        background-color: #F9B501;
+        color: #fff;
+    }
+}
