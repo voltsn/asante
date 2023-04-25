@@ -63,8 +63,8 @@ a {
   align-items: center;
   display: flex;
   justify-content: space-between;
-  padding-top: 1.375rem;
   margin-bottom: 2.0625rem;
+  padding-top: 1.375rem;
   position: relative;
 }
 .main-header .main-header__logo {
@@ -75,20 +75,20 @@ a {
 
 .main-header__nav .main-header__nav__menu {
   align-items: center;
-  width: 100%;
-  left: 0;
-  display: flex;
+  background-color: #090909;
+  display: none;
   flex-direction: column;
   gap: 1.8125rem;
-  position: absolute;
-  background-color: #090909;
-  top: 100%;
+  left: 0;
   padding: 2em 0;
+  position: absolute;
+  top: 100%;
+  width: 100%;
 }
 
 .toggle-nav {
-  border: none;
   background: none;
+  border: none;
   cursor: pointer;
   height: 1.5rem;
   position: relative;
@@ -107,9 +107,9 @@ a {
   top: 0;
 }
 .toggle-nav .toggle-nav__line.middle {
+  right: 0;
   transform: translateY(-50%);
   top: 50%;
-  right: 0;
   width: 50%;
 }
 .toggle-nav .toggle-nav__line.bottom {
