@@ -22,3 +22,8 @@
     cursor: pointer;
     font-size: 1.125rem;
 }
+
+.container{
+    margin: 0 auto;
+    width: calc(100% - (2*1.75rem));
+}
