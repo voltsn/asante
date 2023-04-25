@@ -15,7 +15,7 @@
         <link rel="stylesheet" href="/main.css">
     </head>
     <body>
-        <header class="main-header">
+        <header class="main-header container">
             <div class="main-header__logo">AS</div>
             <nav class="main-header__nav">
                 <ul class="main-header__nav__menu">
