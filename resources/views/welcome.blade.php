@@ -36,7 +36,7 @@
             <section class="hero">
                 <h1 class="hero__heading">Asante</h1>
                 <p class="hero__description">
-                    Discover the art of abstraction like you never have before at our brand new exhibition. <button>Get tickets now</button>
+                    Discover the art of abstraction like you never have before at our brand new exhibition. <button class="text-btn">Get tickets now</button>
                 </p>
                 <div class="hero__images">
                     <img class="hero__images__image" src="/images/pexels-steve-johnson-1789968.png" alt="abstract art" aria-hidden="true">
