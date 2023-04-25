@@ -54,4 +54,66 @@ a {
   font-size: 1.125rem;
 }
 
+.container {
+  margin: 0 auto;
+  width: calc(100% - 3.5rem);
+}
+
+.main-header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1.375rem;
+  margin-bottom: 2.0625rem;
+  position: relative;
+}
+.main-header .main-header__logo {
+  font-family: "Abril fatface", serif;
+  font-size: 1.875rem;
+  letter-spacing: -0.3em;
+}
+
+.main-header__nav .main-header__nav__menu {
+  align-items: center;
+  width: 100%;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.8125rem;
+  position: absolute;
+  background-color: #090909;
+  top: 100%;
+  padding: 2em 0;
+}
+
+.toggle-nav {
+  border: none;
+  background: none;
+  cursor: pointer;
+  height: 1.5rem;
+  position: relative;
+  width: 2rem;
+}
+.toggle-nav .toggle-nav__line {
+  background-color: #fff;
+  display: block;
+  height: 0.125rem;
+  width: 100%;
+}
+.toggle-nav .toggle-nav__line.top, .toggle-nav .toggle-nav__line.bottom, .toggle-nav .toggle-nav__line.middle {
+  position: absolute;
+}
+.toggle-nav .toggle-nav__line.top {
+  top: 0;
+}
+.toggle-nav .toggle-nav__line.middle {
+  transform: translateY(-50%);
+  top: 50%;
+  right: 0;
+  width: 50%;
+}
+.toggle-nav .toggle-nav__line.bottom {
+  bottom: 0;
+}
+
 /*# sourceMappingURL=main.css.map */
